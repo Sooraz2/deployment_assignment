@@ -1,0 +1,2 @@
+-r reqfacecls.txt
+# -r reqwgan.txt
